@@ -1,0 +1,46 @@
+body{
+    text-align: center;
+}
+.div_container{
+    display: flex;
+    justify-content: center;
+    height: 100rem;
+}
+.yellow {
+    border: 9px solid black;
+    margin: 2.5rem;
+    width: 200px;
+    height: 200px;
+    border-radius: 25%;
+    background-color: yellow;
+}
+.red{
+    border: 9px solid black;
+    margin: 2.5rem;
+    width: 200px;
+    height: 200px;
+    border-radius: 25%;
+    background-color: red;
+}
+.purple{
+    border: 9px solid black;
+    margin: 2.5rem;
+    width: 200px;
+    height: 200px;
+    border-radius: 25%;
+    background-color: purple;
+}
+.green{
+    border: 9px solid black;
+    margin: 2.5rem;
+    width: 200px;
+    height: 200px;
+    border-radius: 25%;
+    background-color: rgb(202, 243, 202);
+}
+.flash{
+    background-color: white;
+}
+.userflash{
+    background-color: darkgreen;
+}
